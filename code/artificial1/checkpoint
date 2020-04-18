@@ -1,0 +1,2 @@
+model_checkpoint_path: "coupledgnn_lr0.0005_glr5e-05_l21e-08_layers3_reg_cross_entropy0.5"
+all_model_checkpoint_paths: "coupledgnn_lr0.0005_glr5e-05_l21e-08_layers3_reg_cross_entropy0.5"
